@@ -9,7 +9,7 @@ for(var i=0;i<=159;i++){
 document.querySelector("#pnlbtm").innerHTML=bubleCount;
 }
 //add timer to the game
-var timer=10;
+var timer=60;
 function countTimer(){
     var time=setInterval(() => {
         if(timer>0){
