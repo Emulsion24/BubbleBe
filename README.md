@@ -1,5 +1,5 @@
 # BubbleBe 
-a web Base Normal Game .
+A Web Base Normal Game .
 Hit a random number in a time frame.
 per correct hit 10 point gain and per wrong hit 10 point minus from your score
 ![Screenshot 2023-12-07 011101](https://github.com/Emulsion24/BubbleBe/assets/91772809/788b22c3-fbe0-44de-91af-6296e9a573d2)
